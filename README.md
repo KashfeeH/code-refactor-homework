@@ -11,7 +11,7 @@ Having an accessible website allows all users:
 * Improve their experience
 * To obtain the information or service they are looking for
 As a result it is an important consideration for all businesses, especially when the coronavirus pandemic has incresed web usage manifold. The need for accessible 
-websites as a result in indeed great. 
+websites as a result is indeed great. 
 
 ### What was done
 
